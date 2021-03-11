@@ -1,9 +1,12 @@
 # GAIH Student Repo
 ![](img/newlogo.png)
 
-**Course Date:** 08-12 . 03 . 2021\n
+**Course Date:** 08-12 . 03 . 2021
+
 **Name:** Burak
-**Surname:** CİVELEKOĞLU 
+
+**Surname:** CİVELEKOĞLU
+
 **Email:** burakcivelekoglu@gmail.com  
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
